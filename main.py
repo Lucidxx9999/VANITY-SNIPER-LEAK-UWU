@@ -1,1 +1,1 @@
-suckmydick
+print("suckmydick")
